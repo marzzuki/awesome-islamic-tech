@@ -7,15 +7,16 @@
 A curated collection of **technical resources, open-source projects, websites, and apps** that serve Islam and the Muslim community.
 This list brings together APIs, libraries, learning platforms, and tools that can benefit the **Ummah**.
 
+<br>
+
 ## 🌱 Contributing
 
 Contributions are welcome! 🎉
 Before submitting, please read our [Contributing Guide](https://github.com/marzzuki/awesome-islamic-tech/blob/main/CONTRIBUTING.md).
 
 <em> All pull requests are **reviewed carefully** to maintain quality and relevance.</em>
-<br>
-<br>
 
+<br>
 
 ## 💡 To-Be-Built Ideas
 
