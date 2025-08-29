@@ -1,14 +1,26 @@
-# Awesome Islamic Tech
+# 🌙 Awesome Islamic Tech
 
-A curated list of technical resources, websites, and projects serving Islam and the Muslim community.
-This includes open-source projects, APIs, apps, learning resources, and tools that benefit the Ummah.
+A curated collection of **technical resources, open-source projects, websites, and apps** that serve Islam and the Muslim community.
+This list brings together APIs, libraries, learning platforms, and tools that can benefit the **Ummah**.
 
-📃 Licensed under the [Unlicense](https://unlicense.org/)
+📜 Licensed under the [Unlicense](https://unlicense.org/) — free to use, copy, and share.
 
-⚠️ Linked projects have their own licenses — please respect them.
+⚠️ Please note: linked projects keep their **own licenses**. Make sure to respect them.
 <br>
 <br>
+
+## 🤲 Contributing
+
+Contributions are welcome! 🎉
+Before submitting, please read our [Contributing Guide](https://github.com/marzzuki/awesome-islamic-tech/blob/main/CONTRIBUTING.md).
+
+All pull requests are **reviewed carefully** to maintain quality and relevance.
+<br>
+<br>
+
 
 ## 🚀 To-Be-Built Ideas
-This section is for apps, projects, and tools that don’t exist yet but would greatly benefit the Ummah.
-If you’re a developer looking for inspiration, here’s your chance to make real impact.
+
+In addition to existing projects, we also keep a list of **ideas for apps and tools** that don’t exist yet but would benefit the Ummah.
+
+If you’re a developer looking for inspiration, this section is a great place to start and make a meaningful impact.
